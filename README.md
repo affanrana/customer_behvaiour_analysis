@@ -87,4 +87,3 @@ The Power BI dashboard includes:
 
 ## Contact
 Affan Rana
-Aspiring Data Analyst | Python | SQL | Power BI
