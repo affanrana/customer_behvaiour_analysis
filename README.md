@@ -1,5 +1,5 @@
 # customer_behvaiour_analysis
-Project showcasing customer behaviour using data analysis, more specifically suing python, sql, and power Bi
+Project showcasing customer behaviour using data analysis, more specifically using python, sql, and power Bi
 # Data Analytics Project: End-to-End Business Insights
 
 Author: Affan Rana
