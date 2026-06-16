@@ -1,4 +1,4 @@
-# customer_behvaiour_analysis
+# customer-behaviour-analysis
 Project showcasing customer behaviour using data analysis, more specifically using python, sql, and power Bi
 # Data Analytics Project: End-to-End Business Insights
 
